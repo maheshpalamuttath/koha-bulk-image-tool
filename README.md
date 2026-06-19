@@ -39,7 +39,7 @@ https://github.com/maheshpalamuttath/koha-bulk-image-zip-generator/releases/late
 ### Option 1: Install .deb package (Recommended)
 
 ```bash
-sudo apt install ./koha-bulk-image-zip-generator_2.2_all.deb
+sudo apt install ./koha-bulk-image-tool_2.2_amd64.deb
 ````
 
 ## How It Works
