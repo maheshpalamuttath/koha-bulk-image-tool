@@ -1,4 +1,4 @@
-# 🖼️ Koha Bulk Image ZIP Generator
+# Koha Bulk Image ZIP Generator
 
 A modern Linux desktop application to batch resize patron images and generate Koha-compatible ZIP packages with `IDLINK.TXT`.
 
@@ -26,8 +26,8 @@ Developed for **library automation workflows**, especially for Koha Library Mana
 ![Screenshot](assets/screenshot1.png)
 
 ![Screenshot](assets/screenshot2.png)
-
-### 📦 Installation
+---
+### Installation
 
 ## ⬇️ Download Latest Release (.deb)
 
@@ -42,39 +42,7 @@ https://github.com/maheshpalamuttath/koha-bulk-image-zip-generator/releases/late
 sudo apt install ./koha-bulk-image-zip-generator_2.2_all.deb
 ````
 
----
-
-### Option 2: Run from source
-
-#### 1. Clone repository
-
-```bash
-git clone https://github.com/maheshpalamuttath/koha-bulk-image-zip-generator.git
-cd koha-bulk-image-zip-generator
-```
-
-#### 2. Create virtual environment
-
-```bash
-python3 -m venv venv
-source venv/bin/activate
-```
-
-#### 3. Install dependencies
-
-```bash
-pip install customtkinter pillow tkinterdnd2
-```
-
-#### 4. Run application
-
-```bash
-python3 koha_image_converter.py
-```
-
----
-
-## 📁 How It Works
+## How It Works
 
 1. Select a folder or images
 2. Images are resized to Koha format (default: 140x158)
@@ -87,7 +55,7 @@ python3 koha_image_converter.py
 
 ---
 
-## 📂 Output Format
+## Output Format
 
 ```
 12345.jpeg
@@ -101,7 +69,6 @@ IDLINK.TXT
 12345    12345.jpeg
 12346    12346.jpeg
 ```
-
 ---
 
 ## ⚙️ Requirements
@@ -111,20 +78,9 @@ IDLINK.TXT
 * CustomTkinter
 * Pillow
 * tkinterdnd2
-
 ---
 
-## 📦 Dependencies
-
-Install manually:
-
-```bash
-pip install customtkinter pillow tkinterdnd2
-```
-
----
-
-## 🧑‍💻 Author
+## Author
 
 **Mahesh Palamuttath**
 📧 Email: [maheshpalamuttath@gmail.com](mailto:maheshpalamuttath@gmail.com)
@@ -133,7 +89,7 @@ pip install customtkinter pillow tkinterdnd2
 
 ---
 
-## 🏫 Use Case
+## Use Case
 
 Designed for:
 
@@ -144,7 +100,7 @@ Designed for:
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 * AppImage build (no install required)
 * Auto-update system
