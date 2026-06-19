@@ -34,7 +34,7 @@ Developed for **library automation workflows**, especially for Koha Library Mana
 You can always download the latest `.deb` package from the GitHub Releases page:
 
 👉 **Latest Release (Recommended):**  
-https://github.com/maheshpalamuttath/koha-bulk-image-zip-generator/releases/latest
+[https://github.com/maheshpalamuttath/koha-bulk-image-zip-generator/releases/latest](https://github.com/maheshpalamuttath/koha-bulk-image-tool/releases)
 
 ### Option 1: Install .deb package (Recommended)
 
