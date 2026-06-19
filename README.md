@@ -83,9 +83,9 @@ IDLINK.TXT
 ## Author
 
 **Mahesh Palamuttath**
-📧 Email: [maheshpalamuttath@gmail.com](mailto:maheshpalamuttath@gmail.com)
-📱 Mobile: +91 9567 664 972
-🌐 Website: [https://maheshpalamuttath.info](https://maheshpalamuttath.info)
+- 📧 Email: [maheshpalamuttath@gmail.com](mailto:maheshpalamuttath@gmail.com)
+- 📱 Mobile: +91 9567 664 972
+- 🌐 Website: [https://maheshpalamuttath.info](https://maheshpalamuttath.info)
 
 ---
 
