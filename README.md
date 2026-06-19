@@ -1,4 +1,4 @@
-# Koha Bulk Image ZIP Generator
+# Koha Bulk Image Processing Tool
 
 A modern Linux desktop application to batch resize patron images and generate Koha-compatible ZIP packages with `IDLINK.TXT`.
 
