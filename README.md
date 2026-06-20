@@ -39,7 +39,7 @@ You can always download the latest `.deb` package from the GitHub Releases page:
 ### Option 1: Install .deb package (Recommended)
 
 ```bash
-sudo apt install ./koha-bulk-image-tool_2.2_amd64.deb
+sudo dpkg -i koha-bulk-image-tool_2.2_amd64.deb
 ````
 
 ## How It Works
